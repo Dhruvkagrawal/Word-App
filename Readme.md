@@ -8,4 +8,4 @@ To start ther server follow the commands below:
 
 Api#1===> http://localhost:3001/word/sort (GET request)
 
-Api#2===>
+Api#2===> http://localhost:3001/word/add (POST request)
